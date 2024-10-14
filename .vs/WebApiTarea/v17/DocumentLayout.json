@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\controllers\\personamayorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\controllers\\personamayorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\personamiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\personamiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\controllers\\platoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\controllers\\platoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\models\\platos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\models\\platos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\models\\personamayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\models\\personamayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|c:\\users\\cristhian taveras\\source\\repos\\webapitarea\\webapitarea\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853123FF-B2EF-4BF8-8963-BADEF68292C2}|WebApiTarea\\WebApiTarea.csproj|solutionrelative:webapitarea\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\PersonaMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\PersonaMiddleware.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\PersonaMiddleware.cs",
+              "RelativeToolTip": "WebApiTarea\\PersonaMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:41:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaMayorController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Controllers\\PersonaMayorController.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\Controllers\\PersonaMayorController.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Controllers\\PersonaMayorController.cs",
+              "RelativeToolTip": "WebApiTarea\\Controllers\\PersonaMayorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:40:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatosController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Controllers\\PlatosController.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\Controllers\\PlatosController.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Controllers\\PlatosController.cs",
+              "RelativeToolTip": "WebApiTarea\\Controllers\\PlatosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:19:01.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "WebApiTarea\\Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:14:12.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaMayor.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Models\\PersonaMayor.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\Models\\PersonaMayor.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Models\\PersonaMayor.cs",
+              "RelativeToolTip": "WebApiTarea\\Models\\PersonaMayor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:13:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Platos.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Models\\Platos.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\Models\\Platos.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Models\\Platos.cs",
+              "RelativeToolTip": "WebApiTarea\\Models\\Platos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:10:44.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\Models\\Estudiante.cs",
+              "RelativeToolTip": "WebApiTarea\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:10:04.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiTarea\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Cristhian Taveras\\source\\repos\\WebApiTarea\\WebApiTarea\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiTarea\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:06:32.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
